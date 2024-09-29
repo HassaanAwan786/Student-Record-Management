@@ -1,0 +1,11 @@
+C:\Users\Dell XPS15\OneDrive\Desktop\webassignment4\bin\Debug\webassignment4.exe.config
+C:\Users\Dell XPS15\OneDrive\Desktop\webassignment4\bin\Debug\webassignment4.exe
+C:\Users\Dell XPS15\OneDrive\Desktop\webassignment4\bin\Debug\webassignment4.pdb
+C:\Users\Dell XPS15\OneDrive\Desktop\webassignment4\obj\Debug\webassignment4.csproj.AssemblyReference.cache
+C:\Users\Dell XPS15\OneDrive\Desktop\webassignment4\obj\Debug\webassignment4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell XPS15\OneDrive\Desktop\webassignment4\obj\Debug\webassignment4.Form1.resources
+C:\Users\Dell XPS15\OneDrive\Desktop\webassignment4\obj\Debug\webassignment4.Properties.Resources.resources
+C:\Users\Dell XPS15\OneDrive\Desktop\webassignment4\obj\Debug\webassignment4.csproj.GenerateResource.cache
+C:\Users\Dell XPS15\OneDrive\Desktop\webassignment4\obj\Debug\webassignment4.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS15\OneDrive\Desktop\webassignment4\obj\Debug\webassignment4.exe
+C:\Users\Dell XPS15\OneDrive\Desktop\webassignment4\obj\Debug\webassignment4.pdb
